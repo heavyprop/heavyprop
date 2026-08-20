@@ -23,7 +23,7 @@ currently learning:
 - 🔸 software architecture
 
 
-## 🛠️ tech i use
+## tech i use
 
 🩵 languages  
 `c++` `c#` `python` `java`
