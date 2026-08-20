@@ -1,4 +1,4 @@
-# hey, i'm daniel ⛄️
+# i'm daniel ⛄️
 
 ```cpp
 class SoftwareEngineer {
