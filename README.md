@@ -1,6 +1,20 @@
 # hey, i'm daniel ⛄️
 
-software engineer interested in building things with **c++**, **c#**, **unity** and **machine learning**.
+```cpp
+class SoftwareEngineer {
+public:
+    std::vector<std::string> interests = {
+        "c++",
+        "c#",
+        "unity",
+        "machine learning"
+    };
+
+    void build() {
+        std::cout << "creating software..." << std::endl;
+    }
+};
+```
 
 currently learning:
 - 🩵c++ and low level programming
@@ -20,9 +34,13 @@ currently learning:
 ## projects
 
 🔸 **ar unity project**  
+[ar unity project](https://github.com/heavyprop/NLP_task_pairwise-sequence_classification) 
 augmented reality application built with unity, c# and arkit.
 
+
+
 🩵 **machine learning experiments**  
+[machine learning experiments]([https://github.com/yourusername/ml-project](https://github.com/heavyprop/UNITYAR-csharp-arkit-dissertation))
 playing around with neural networks, nlp and model training.
 
 
