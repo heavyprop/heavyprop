@@ -1,4 +1,4 @@
-# i'm daniel ⛄️
+# daniel ⛄️
 
 ```cpp
 class SoftwareEngineer {
@@ -54,7 +54,3 @@ playing around with neural networks, nlp and model training.
 ## 👀 find me
 
 [linkedin](https://www.linkedin.com/in/danielkoshovyy/) · [email](danielkoshovyy@proton.me)
-
----
-
-⭐ thanks for stopping by
