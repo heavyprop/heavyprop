@@ -23,7 +23,7 @@ currently learning:
 - 🔸 software architecture
 
 
-## tech i use
+## tech that i use
 
 🩵 languages  
 `c++` `c#` `python` `java`
@@ -31,7 +31,7 @@ currently learning:
 🔸 tools  
 `unity` `git` `cmake` `linux` `docker`
 
-## projects
+## some projects
 
 🔸 **ar unity project**  
 [ar unity project](https://github.com/heavyprop/UNITYAR-csharp-arkit-dissertation) 
