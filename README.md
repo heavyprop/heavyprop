@@ -1,69 +1,46 @@
-# Hi, I'm Daniel 👋
+# hey, i'm daniel 👋
 
-## Software Engineer | C++ | C# | Unity | Machine Learning
+software engineer interested in building things with **c++**, **c#**, **unity** and **machine learning**.
 
-I am a Software Engineering graduate interested in building reliable software, 
-game technologies, artificial intelligence, and interactive applications.
+currently learning:
+- 🟦 c++ and low level programming
+- 🟧 algorithms & data structures
+- 🟦 ai / machine learning
+- 🟧 software architecture
 
-Currently focusing on:
-- Data Structures & Algorithms
-- C++ development
-- Machine Learning
-- Software architecture
-- Cloud technologies
 
----
+## 🛠️ tech i use
 
-## 🛠️ Technologies
+🟦 languages  
+`c++` `c#` `python` `java`
 
-### Languages
-- C++
-- C#
-- Python
-- Java
+🟧 tools  
+`unity` `git` `cmake` `linux` `docker`
 
-### Frameworks & Tools
-- Unity
-- ARKit
-- Git
-- CMake
-- Linux
-- Docker
+🟦 interests  
+`ai` `computer vision` `game development` `systems programming`
 
-### Areas of Interest
-- Artificial Intelligence
-- Computer Vision
-- Embedded Systems
-- Game Development
-- Backend Engineering
 
----
+## 🚀 projects
 
-## 🚀 Featured Projects
+🟧 **ar unity project**  
+augmented reality application built with unity, c# and arkit.
 
-### 🎮 AR Unity Application
-Augmented reality application developed using Unity, C#, and ARKit.
+🟦 **machine learning experiments**  
+playing around with neural networks, nlp and model training.
 
-[View Project →](link)
 
-### 🤖 Machine Learning Research
-Experiments involving neural networks and NLP models.
+## 📚 currently working on
 
-[View Project →](link)
+- leetcode & algorithms
+- improving c++ skills
+- building better software
+
+
+## 📫 find me
+
+[linkedin](your-link) · [email](your-email)
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced C++
-- System Design
-- Low-level programming
-- Cloud infrastructure
-
----
-
-## 📫 Contact
-
-LinkedIn: [your link]
-
-Email: your email
+⭐ thanks for stopping by
