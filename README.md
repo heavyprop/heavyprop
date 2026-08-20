@@ -40,7 +40,7 @@ augmented reality application built with unity, c# and arkit.
 
 
 🩵 **machine learning experiments**  
-[machine learning experiments](https://github.com/yourusername/ml-project)
+[machine learning experiments](https://github.com/heavyprop/NLP_task_pairwise-sequence_classification)
 playing around with neural networks, nlp and model training.
 
 
