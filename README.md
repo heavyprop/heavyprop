@@ -40,7 +40,7 @@ augmented reality application built with unity, c# and arkit.
 
 
 🩵 **machine learning experiments**  
-[machine learning experiments]([https://github.com/yourusername/ml-project](https://github.com/heavyprop/UNITYAR-csharp-arkit-dissertation)
+[machine learning experiments](https://github.com/yourusername/ml-project)
 playing around with neural networks, nlp and model training.
 
 
