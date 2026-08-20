@@ -34,7 +34,7 @@ currently learning:
 ## projects
 
 🔸 **ar unity project**  
-[ar unity project](https://github.com/heavyprop/NLP_task_pairwise-sequence_classification) 
+[ar unity project](https://github.com/heavyprop/UNITYAR-csharp-arkit-dissertation) 
 augmented reality application built with unity, c# and arkit.
 
 
