@@ -1,5 +1,3 @@
-# heavyprop ⛄️
-
 ```cpp
 class SoftwareEngineer {
 public:
@@ -16,41 +14,21 @@ public:
 };
 ```
 
-currently learning:
-- 🩵c++ and low level programming
-- 🔸 algorithms & data structures
-- 🩵 ai / machine learning
-- 🔸 software architecture
-
-
-## tech that i use
-
-🩵 languages  
-`c++` `c#` `python` `java`
-
-🔸 tools  
 `unity` `git` `cmake` `linux` `docker`
 
 ## some projects
 
-🔸 **ar unity project**  
+<< **ar unity project**  
 [ar unity project](https://github.com/heavyprop/UNITYAR-csharp-arkit-dissertation) 
 augmented reality application built with unity, c# and arkit.
 
 
 
-🩵 **machine learning experiments**  
+<< **machine learning experiments**  
 [machine learning experiments](https://github.com/heavyprop/NLP_task_pairwise-sequence_classification)
 playing around with neural networks, nlp and model training.
 
 
-## currently working on
-
-- leetcode & algorithms
-- improving c++ skills
-- building better software
-
-
 ## 👀 find me
 
-[linkedin](https://www.linkedin.com/in/danielkoshovyy/) · [email](danielkoshovyy@proton.me)
+[linkedin](https://www.linkedin.com/in/danielkoshovyy/) · [email](danielkoshovyy1@icloud.com)
