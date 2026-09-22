@@ -1,21 +1,3 @@
-```cpp
-class SoftwareEngineer {
-public:
-    std::vector<std::string> interests = {
-        "c++",
-        "c#",
-        "unity",
-        "machine learning"
-    };
-
-    void build() {
-        std::cout << "creating software..." << std::endl;
-    }
-};
-```
-
-`unity` `git` `cmake` `linux` `docker`
-
 ## some projects
 
 << **ar unity project**  
